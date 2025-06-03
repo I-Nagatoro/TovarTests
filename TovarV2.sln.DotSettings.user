@@ -1,0 +1,34 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0f54c654_002D3115_002D4d29_002Dbebc_002Dca5f4468d117/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from MainWindowTests.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;6CAA4005-3C66-4629-8FBE-34AEE3631649/f:MainWindowTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;6CAA4005-3C66-4629-8FBE-34AEE3631649/f:EditTovarTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;6CAA4005-3C66-4629-8FBE-34AEE3631649/f:AddTovarTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;6CAA4005-3C66-4629-8FBE-34AEE3631649/f:ProductEditsTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4/d:LibraryTests/f:KorzinaTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;6CAA4005-3C66-4629-8FBE-34AEE3631649/f:KorzinaTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3152b43a_002D36c1_002D4a99_002D9c6d_002D1c412994c874/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from EditTovarTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6CAA4005-3C66-4629-8FBE-34AEE3631649/f:EditTovarTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5a7e93d9_002D4f9c_002D41cd_002D83ab_002D30c8d96353ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from MainWindowTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6CAA4005-3C66-4629-8FBE-34AEE3631649/f:MainWindowTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e5f3221_002D9701_002D4e4b_002D838b_002D19cda8b49b51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from MainWindowTests.cs #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6CAA4005-3C66-4629-8FBE-34AEE3631649/f:MainWindowTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=82dbee3b_002D1ddb_002D4252_002D97ce_002Dda260b2e61c3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from MainWindowTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6CAA4005-3C66-4629-8FBE-34AEE3631649/f:MainWindowTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a5fb1ff1_002D7d16_002D4829_002D8289_002D31298d9d7c6d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from EditTovarTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;7C723A92-1C25-49EC-BAD7-3E82FBA826CB/f:AddTovarTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7C723A92-1C25-49EC-BAD7-3E82FBA826CB/f:EditTovarTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7C723A92-1C25-49EC-BAD7-3E82FBA826CB/f:KorzinaTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7C723A92-1C25-49EC-BAD7-3E82FBA826CB/f:MainWindowTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7C723A92-1C25-49EC-BAD7-3E82FBA826CB/f:ProductEditsTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4/d:Testiks/f:EditTovarTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4/d:Testiks/f:AddTovarTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

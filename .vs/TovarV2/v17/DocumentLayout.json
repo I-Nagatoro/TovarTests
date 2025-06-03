@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TovarV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|D:\\TovarV2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|D:\\TovarV2\\productselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:productselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|d:\\tovarv2\\productedit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:productedit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|D:\\TovarV2\\productedit.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:productedit.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|D:\\TovarV2\\addtovar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:addtovar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|D:\\TovarV2\\addtovar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:addtovar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|D:\\TovarV2\\edittovar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:edittovar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|D:\\TovarV2\\edittovar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:edittovar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|D:\\TovarV2\\korzina.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:korzina.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|D:\\TovarV2\\korzina.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:korzina.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Korzina.axaml.cs",
+              "DocumentMoniker": "D:\\TovarV2\\Korzina.axaml.cs",
+              "RelativeDocumentMoniker": "Korzina.axaml.cs",
+              "ToolTip": "D:\\TovarV2\\Korzina.axaml.cs",
+              "RelativeToolTip": "Korzina.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:08:39.581Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Korzina.axaml",
+              "DocumentMoniker": "D:\\TovarV2\\Korzina.axaml",
+              "RelativeDocumentMoniker": "Korzina.axaml",
+              "ToolTip": "D:\\TovarV2\\Korzina.axaml",
+              "RelativeToolTip": "Korzina.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T09:08:55.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditTovar.axaml",
+              "DocumentMoniker": "D:\\TovarV2\\EditTovar.axaml",
+              "RelativeDocumentMoniker": "EditTovar.axaml",
+              "ToolTip": "D:\\TovarV2\\EditTovar.axaml",
+              "RelativeToolTip": "EditTovar.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T12:03:11.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditTovar.axaml.cs",
+              "DocumentMoniker": "D:\\TovarV2\\EditTovar.axaml.cs",
+              "RelativeDocumentMoniker": "EditTovar.axaml.cs",
+              "ToolTip": "D:\\TovarV2\\EditTovar.axaml.cs",
+              "RelativeToolTip": "EditTovar.axaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:03:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddTovar.axaml.cs",
+              "DocumentMoniker": "D:\\TovarV2\\AddTovar.axaml.cs",
+              "RelativeDocumentMoniker": "AddTovar.axaml.cs",
+              "ToolTip": "D:\\TovarV2\\AddTovar.axaml.cs",
+              "RelativeToolTip": "AddTovar.axaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T13:31:02.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTovar.axaml",
+              "DocumentMoniker": "D:\\TovarV2\\AddTovar.axaml",
+              "RelativeDocumentMoniker": "AddTovar.axaml",
+              "ToolTip": "D:\\TovarV2\\AddTovar.axaml",
+              "RelativeToolTip": "AddTovar.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T08:14:38.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Productedit.axaml",
+              "DocumentMoniker": "D:\\TovarV2\\Productedit.axaml",
+              "RelativeDocumentMoniker": "Productedit.axaml",
+              "ToolTip": "D:\\TovarV2\\Productedit.axaml",
+              "RelativeToolTip": "Productedit.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T08:18:23.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productedit.axaml.cs",
+              "DocumentMoniker": "D:\\TovarV2\\Productedit.axaml.cs",
+              "RelativeDocumentMoniker": "Productedit.axaml.cs",
+              "ToolTip": "D:\\TovarV2\\Productedit.axaml.cs",
+              "RelativeToolTip": "Productedit.axaml.cs",
+              "ViewState": "AQIAAJ4BAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:07:18.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductSelect.cs",
+              "DocumentMoniker": "D:\\TovarV2\\ProductSelect.cs",
+              "RelativeDocumentMoniker": "ProductSelect.cs",
+              "ToolTip": "D:\\TovarV2\\ProductSelect.cs",
+              "RelativeToolTip": "ProductSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:52:22.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\TovarV2\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\TovarV2\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T12:09:58.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

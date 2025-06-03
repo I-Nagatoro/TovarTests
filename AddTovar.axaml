@@ -1,0 +1,53 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="450" d:DesignHeight="300"
+        x:Class="TovarV2.AddTovar"
+        Title="AddTovar">
+  <Grid 
+    RowDefinitions="30,80,40">
+<StackPanel
+Grid.Row="0"
+Orientation="Vertical">
+	<TextBlock
+		Text="Заполните информацию о товаре">
+		</TextBlock>
+	<TextBox
+		x:FieldModifier="public"
+		Name="nameTov"
+		Watermark="Наименование">
+	</TextBox>
+	<TextBox
+		x:FieldModifier="public"
+		Name="priceTov"
+		Watermark="Цена">
+		</TextBox>
+	<TextBox
+		x:FieldModifier="public"
+		Name="quantityTov"
+		Watermark="Количество">
+	</TextBox>
+	<Image
+		x:FieldModifier="public"
+		Height="100"
+		Width="100"
+		Name="ImagePath">
+</Image>
+	<Button
+		x:FieldModifier="public"
+		Click="AddTovarImg_Click"
+		Content="Добавить изображение">
+	</Button>
+	<Button
+		x:FieldModifier="public"
+		Click="AddTovarOk_Click"
+		Content="Готово">
+	</Button>
+	<TextBlock 
+		x:FieldModifier="public"
+		Name="errorMsg">
+	</TextBlock>
+</StackPanel>
+</Grid>
+</Window>

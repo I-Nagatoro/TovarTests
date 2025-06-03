@@ -1,0 +1,242 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="TovarV2.Korzina"
+        x:CompileBindings="False"
+			
+				
+        Title="Korzina">
+	<Grid
+				   Background="FloralWhite"
+				   Name="grid"
+				   ColumnDefinitions="750,*, *"
+				   RowDefinitions="50, 500, *">
+		<StackPanel
+				Orientation="Horizontal"
+		Margin="20, 20, 0, 0"
+		Grid.Row="0"
+				Grid.Column="0">
+			<TextBlock
+					VerticalAlignment="Center"
+					Text="Товары в корзине">
+			</TextBlock>
+		</StackPanel>
+		<StackPanel
+				Grid.Column="2"
+				Orientation="Horizontal"
+				HorizontalAlignment="Right">
+			<Button
+					x:FieldModifier="public"
+					Background="DarkCyan"
+					HorizontalAlignment="Right"
+					VerticalAlignment="Center"
+					Content="Вернуться к каталогу"
+					Click="ReturnProdEdit_Click">
+			</Button>
+			<Button
+					x:FieldModifier="public"
+					HorizontalAlignment="Right"
+					Margin="20, 0, 0, 0"
+					VerticalAlignment="Center"
+					Content="Выход"
+					Click="Exit_Click">
+			</Button>
+		</StackPanel>
+
+
+		<StackPanel
+				Margin="0, 30, 0, 0"
+				Name="stackPanelBtns"
+				Orientation="Vertical"
+				HorizontalAlignment="Center"
+				Grid.Column="1"
+				Grid.Row="1">
+
+
+		</StackPanel>
+		<StackPanel
+				Margin="0, 30, 0, 0"
+				Name="stackPanelQuantity"
+				Orientation="Vertical"
+				HorizontalAlignment="Left"
+				Grid.Column="1"
+				Grid.Row="1">
+		</StackPanel>
+		<StackPanel
+				Margin="10, 10, 0, 0"
+				VerticalAlignment="Top"
+				Height="30"
+				Grid.Column="0"
+				Grid.Row="1"
+				Orientation="Horizontal">
+			<TextBlock
+					Height="50"
+					TextAlignment="Center"
+					Width="110"
+					FontSize="13"
+					Text="Наименование">
+
+			</TextBlock>
+			<TextBlock
+					TextAlignment="Center"
+					VerticalAlignment="Center"
+					Height="50"
+					Width="65"
+					Margin="10, 0, 0, 0"
+					FontSize="13"
+					Text="Цена, руб.">
+
+			</TextBlock>
+			<TextBlock
+					TextAlignment="Center"
+					Height="50"
+					Width="100"
+					Margin="10, 0, 0, 0"
+					FontSize="13"
+					TextWrapping="Wrap"
+					Text="Количество в магазине, шт.">
+
+			</TextBlock>
+			<TextBlock
+					TextAlignment="Center"
+					Height="50"
+					Width="120"
+					Margin="10, 0, 0, 0"
+					FontSize="13"
+					TextWrapping="Wrap"
+					Text="Изображение">
+			</TextBlock>
+			<TextBlock
+					TextAlignment="Center"
+					Height="50"
+					Width="110"
+					Margin="10, 0, 0, 0"
+					FontSize="13"
+					TextWrapping="Wrap"
+					Text="Укажите количество, шт.">
+			</TextBlock>
+		</StackPanel>
+		<StackPanel
+				Margin="0, 30, 0, 0"
+				Grid.Row="1"	
+				Grid.Column="0">
+			<StackPanel
+				Orientation="Horizontal">
+				<Button
+					x:FieldModifier="public"
+					Content="back"
+					Click="PrevPage_OnClick"
+					Name="backBtn">
+				</Button>
+				<ListBox
+					x:FieldModifier="public"
+						Background="FloralWhite"
+						Width="750"
+						HorizontalAlignment="Left"
+						SelectionMode="Single"
+						Height="500"
+						Name="ProdListInKorz">
+					<ListBox.ItemTemplate>
+						<DataTemplate>
+							<Border
+											Margin="0,10,0,0"
+											CornerRadius="5"
+											BorderBrush="Gray"
+											BorderThickness="1"
+											Padding="5">
+								<StackPanel
+											Width="700"
+										Orientation="Horizontal">
+									<TextBlock
+												TextWrapping="Wrap"
+												Width="60"
+												HorizontalAlignment="Left"
+												Text="{Binding nameProdKorz}">
+									</TextBlock>
+									<TextBlock
+											Width="30"
+											HorizontalAlignment="Center"
+										Margin="60, 0, 0, 0"
+										Text="{Binding priceProdKorz}">
+									</TextBlock>
+									<TextBlock
+											Width="30"
+											Margin="60, 0, 0, 0"
+									HorizontalAlignment="Right"
+									Text="{Binding quantityProdKorz}">
+									</TextBlock>
+									<Image
+										x:FieldModifier="public"
+										Margin="10, 0, 10, 0"
+										Source="{Binding bitmapProdkorz}"
+										Width="200"
+										Height="140">
+									</Image>
+									<Button
+										x:FieldModifier="public"
+										Tag="{Binding Id}"
+										Click="UmenBtn_OnClick"
+										Width="30"
+										Content="-">
+									</Button>
+									<TextBlock
+										Width="30"
+										Text="{Binding quantitySelect}">
+									</TextBlock>
+									<Button
+										x:FieldModifier="public"
+										Tag="{Binding Id}"
+										Click="UvelBtn_OnClick"
+										Width="30"
+										Content="+">
+									</Button>
+
+									<Button
+											x:FieldModifier="public"
+											Tag="{Binding Id}"
+											Height="25"
+											Content="Удалить"
+											Click="DelBtn_Click"
+											Margin="60, 0, 0, 0"
+											Width="90">
+									</Button>
+								</StackPanel>
+							</Border>
+						</DataTemplate>
+					</ListBox.ItemTemplate>
+				</ListBox>
+				<Button
+					x:FieldModifier="public"
+					Content="next"
+					Click="NextPage_OnClick"
+					Name="nextBtn">
+				</Button>
+				</StackPanel>
+			<TextBlock
+				x:FieldModifier="public"
+				Name="pageNum">
+			</TextBlock>
+			</StackPanel>
+		<StackPanel
+				Grid.Row="2"
+				Grid.Column="0"
+				Orientation="Vertical">
+			<Button
+					x:FieldModifier="public"
+					Name="PodschetOrderBtn"
+					Content="OK"
+					Click="PodschetOrderBtn_Click">
+			</Button>
+			<StackPanel
+					Orientation="Horizontal">
+				<TextBlock
+						x:FieldModifier="public"
+						Name="podschetstoimosti"
+						Text="{Binding}">
+				</TextBlock>
+			</StackPanel>
+		</StackPanel>
+	</Grid>
+</Window>

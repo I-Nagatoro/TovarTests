@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AddTovar.axaml" value="TovarV2.csproj" />
+        <entry key="EditTovar.axaml" value="TovarV2.csproj" />
+        <entry key="Korzina.axaml" value="TovarV2.csproj" />
+        <entry key="MainWindow.axaml" value="TovarV2.csproj" />
+        <entry key="Productedit.axaml" value="TovarV2.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
